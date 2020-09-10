@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "692048922478",
+    "firebase_url": "https://podcast-f82b9.firebaseio.com",
+    "project_id": "podcast-f82b9",
+    "storage_bucket": "podcast-f82b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692048922478:android:153bf804cefd55246e637f",
+        "android_client_info": {
+          "package_name": "uk.me.amugofjava.anytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692048922478-888bf1g33eor3p8bsd3st6o2no72oolg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrP0gbORTMusu4-ugK6HlFCDjf03BMhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692048922478-888bf1g33eor3p8bsd3st6o2no72oolg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
