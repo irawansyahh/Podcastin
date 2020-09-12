@@ -16,11 +16,6 @@ class DemoApp extends StatelessWidget {
       ),
       // ignore: missing_return
       initialRoute: "/",
-      // routes: {
-      //   "/": (context) => PodcastinPodcastApp(),
-      //   "/login": (context) => LoginPage(),
-      //   "/register": (context) => RegisterPage(),
-      // },
 
       onGenerateRoute: (RouteSettings settings) {
         switch (settings.name) {

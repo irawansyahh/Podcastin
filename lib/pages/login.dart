@@ -61,7 +61,7 @@ class _LoginPageState extends State<LoginPage> {
               ),
             ),
             Text(
-              'Ideazy Studio',
+              'Mumpung Libur Team',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
