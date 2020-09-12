@@ -47,6 +47,6 @@ If you have an issue or discover a bug, please raise a GitHub issue. Pull reques
 
 If you wish to reach out to me directly you can find me at irawansyah@student.telkomuniversity.ac.id
 
-##License
+#License
 
 Podcastin is released under a BSD-Style License. See the LICENSE file for further details.
